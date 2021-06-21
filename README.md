@@ -3,18 +3,18 @@
 ![](https://img.shields.io/badge/Contribuitions-Welcome-brightgreen)
 
 
-A collection of awesome platforms, blogs, documents, books, resources and cool stuff about security 
+Um acervo de incríveis plataformas, blogs, documentos, livros, recursos e coisas legais sobre cibersegurança!
 
- While this repository is still a work in progress , the goal is to build a categorized community-driven collection of very well-known resources.
+Embora este repositório ainda seja um trabalho em andamento, o objetivo é construir uma coleção categorizada de recursos bem conhecidos, dirigida pela comunidade.
 
-#  All the good stuff in one place
+#  Tudo de bom em um só lugar!
 
 
-  Honestly before going through any of the resources mentioned here , getting familiar with the shortcuts is extremely helpful
+  Honestamente, antes de acessar qualquer conteúdo mencionado aqui, é útil se familiarizar com estes atalhos:
   https://www.shortcutfoo.com/
   
   
-   ## Training 
+   ## Treinamento 
  * [Range force](https://portal.rangeforce.com/courses)
  * [HTB](https://www.hackthebox.eu/)
  * [Tryhackme](https://tryhackme.com/)
@@ -69,12 +69,11 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
 
 
 
-- learning how various stacks function seems to be an important aspect of bug bounty hunting , so you need to learn at least one of MERN or LAMP or whatever.
-You can learn the MERN Stack by building your own Yelp-like restaurant review site. MERN stands for MongoDB + Express + React + Node.js. Then in the second half of the course, you'll learn how to swap out your Node.js/Express back end in favor of Serverless Architecture. (3 hour YouTube course): [https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/](https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/)
+- Aprender como vários stacks funcionam parece ser um aspecto importante do bug bounty, então você precisa aprender pelo menos uma de MERN ou LAMP ou o que quer que seja. Você pode aprender o MERN Stack construindo seu próprio site de revisão de restaurantes do tipo Yelp. MERN significa MongoDB + Express + React + Node.js. Então, na segunda metade do curso, você aprenderá como trocar seu Node.js/Express back end em favor da Arquitetura sem Servidor. (3 horas de curso no YouTube): [https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/](https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/)
 
-#### Resources from the hacker101 discord server
-**How to get started with hacking and bug bounties?** 
-We've gathered some useful resources to get your started on your bug bounty journey! 
+#### Recursos do servidor do Discord hacker101
+**Como começar com hacking e bug bounties?** 
+Reunimos alguns recursos úteis para começar sua jornada de Bug Bounty! 
 - [**Guide to learn hacking**](https://www.youtube.com/watch?v=2TofunAI6fU "https://www.youtube.com/watch?v=2TofunAI6fU") 
 -   [**Finding your first bug**](https://portswigger.net/blog/finding-your-first-bug-bounty-hunting-tips-from-the-burp-suite-community "https://portswigger.net/blog/finding-your-first-bug-bounty-hunting-tips-from-the-burp-suite-community")
  - [ **Port Swigger Web Security Academy**](https://portswigger.net/web-security/learning-path "https://portswigger.net/web-security/learning-path") 
@@ -85,7 +84,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 -    [**InsiderPhD**](https://www.youtube.com/c/InsiderPhD "https://www.youtube.com/c/InsiderPhD") 
 -    [ **Series for new bug hunters**](https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw "https://www.youtube.com/playlist?list=PLbyncTkpno5FAC0DJYuJrEqHSMdudEffw") 
 -   [ **Jhaddix** ](https://www.youtube.com/c/jhaddix "https://www.youtube.com/c/jhaddix") 
-##### Posts from Hacker101 members on how to get started hacking 
+##### Postagens de membros do hacker101 sobre como começar no hacking 
  -  [**zonduu**](https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f "https://medium.com/@zonduu/bug-bounty-beginners-guide-683e9d567b9f") 
  -   [**p4nda**](https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html "https://enfinlay.github.io/bugbounty/2020/08/15/so-you-wanna-hack.html")
  -  [**also a blog on subdomain takeovers**](https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html "https://enfinlay.github.io/sto/ip/domain/bugbounty/2020/09/12/ip-server-domain.html") 
@@ -96,8 +95,8 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
   
   
-  ## Tools
-- [Pwncat](https://github.com/calebstewart/pwncat) is a post-exploitation platform ~~for Linux targets~~. It started out as a wrapper around basic bind and reverse shells and has grown from there. It streamlines common red team operations while staging code from your attacker machine, not the target.
+  ## Ferramentas
+- [Pwncat](https://github.com/calebstewart/pwncat) é uma plataforma pos-exploração(post-exploitation) para alvos Linux. Ela começou como um invólucro(wrapper) em torno de cascas básicas(basic bind) de encadernação e inversão(reverse shells) e tem crescido a partir daí. Ela simplifica as operações comuns do Red Team enquanto encena o código da sua máquina atacante, não o alvo.
 - [Automatic bypass (brute force) waf](https://github.com/3xp10it/xwaf)
 - [DFIR-Tools](https://github.com/archanchoudhury/DFIR-Tools)
 - [https://pentestbox.org/](https://pentestbox.org/)
@@ -106,7 +105,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 - [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all)
 - [Shadrak : Shadrak is a script to generate decompression bomb in various formats.](https://gitlab.com/brn1337/shadrak)
 - [Fish: a phishing tool](https://github.com/aarav2you/Fish/)
-- [Owasp Zap](https://www.zaproxy.org/), a free and opensource burpsuite alternative
+- [Owasp Zap](https://www.zaproxy.org/), uma alternativa gratuita e open source ao burpsuite
 - [Pimpmykai](https://github.com/Dewalt-arch/pimpmykali) 
 - [Name that hash](https://github.com/HashPals/Name-That-Hash)
 - [Burp Automator(burpa) - A Burp Suite Automation Tool.](https://github.com/tristanlatr/burpa)
@@ -139,7 +138,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
  *  [CTF Difficulty cheatsheet (Vulnhub)](https://github.com/Ignitetechnologies/CTF-Difficulty)
  
   
-  ## Github resources
+  ## Recursos no GitHub
   * [Malware Analysis Course](https://github.com/hasherezade/malware_training_vol1)
   * [Malware-IR-TH-TI-Resources](https://github.com/ShilpeshTrivedi/Malware-IR-TH-TI-Resources/blob/main/Malware-IR-TH-TI-Resources.md#malware-ir-th-ti-resources)
   * [Red Team tactics and techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques)
@@ -191,38 +190,40 @@ We've gathered some useful resources to get your started on your bug bounty jour
    * [Tryhackme blog](https://blog.tryhackme.com/)
    * [Start in infosec](https://malicious.link/start/)
    * [Ethical Hacking With Hack The Box :A free book for getting started in Ethical Hacking](https://book.ethicalhackinghtb.xyz/)
+   * [Blog Cysource](https://www.cysource.com.br/blog) PT-BR
 
 
-## Paid training 
+## Treinamentos pagos 
   * [cybersec labs](https://www.cyberseclabs.co.uk/)
   * [Virtyal Hacking Labs](https://www.virtualhackinglabs.com/)
   * https://academy.tcm-sec.com/courses
   * [INE](https://my.ine.com/learning-paths)
   * https://hackersacademy.com/
+  * [Cysource](https://www.cysource.com.br/#courses_grid) PT-BR
 
 
-## Resources
+## Recursos
 * https://startupstash.com/cybersecurity-resources/
 * https://threatexpress.com/redteaming/resources/
 * [Reverse enginering](https://www.infosecinstitute.com/skills/learning-paths/reverse-engineering/)
 * [https://ippsec.rocks/?#](https://ippsec.rocks/?#)  
 * [https://liveoverflow.com/](https://liveoverflow.com/)
-* [Learn vim](https://www.vim.so/) or [Emacs](https://www.emacswiki.org/emacs/LearningEmacs) i don't care , i'm not trying to start a war
+* [Learn vim](https://www.vim.so/) or [Emacs](https://www.emacswiki.org/emacs/LearningEmacs) eu não ligo, não quero começar uma guerra
 * [Python Cybersecurity - Build your own tools](https://www.reddit.com/r/Python/comments/o0dzk6/python_cybersecurity_build_your_own_tools/)
 * [Osint framework](https://osintframework.com/)
 * [Getting started with OSINT](https://www.reddit.com/r/OSINT/comments/e78he1/osint_for_beginners_part_1_introduction/?utm_source=share&utm_medium=web2x&context=3) 
 * [Vulnhub resources](https://www.vulnhub.com/resources/)
 
 
-## Programing resources 
+## Recursos de programação 
 
-### **Learn git**
+### **Aprenda git**
 
 [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
 [https://ohmygit.org/](https://ohmygit.org/)  
 [https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)  
 
-### **General**
+### **Geral**
 
 [Comprehensive Guide to Learn CS Online](https://qvault.io/2020/11/18/comprehensive-guide-to-learn-computer-science-online/)
 
@@ -302,7 +303,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
 
 
-  ## Misclaneous links
+  ## Links diversos
   
   
   * https://freetraining.dfirdiva.com/
@@ -315,7 +316,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
   *  [Twitter-geolocate](https://github.com/davidkowalk/twitter_geolocate)
 
 
-## Youtube channels 
+## Canais no YouTube 
 [Pwnfunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)  
   
 [zSecurity](https://www.youtube.com/user/zaidsabeeh) 
@@ -340,9 +341,13 @@ We've gathered some useful resources to get your started on your bug bounty jour
   
 [Alhz4r3d  ](https://www.youtube.com/channel/UCz-Z-d2VPQXHGkch0-_KovA)
 
+[Daniel Donda](https://www.youtube.com/user/DanielDonda) PT-BR
+
+[Guia Anônima](https://www.youtube.com/user/adsecf) PT-BR
 
 
-## Discord servers
+
+## Servidores no Discord
 [the cyber mentor](https://discord.gg/tcm)  
   
 [the many hats club](https://discord.gg/infosec)  
@@ -379,12 +384,12 @@ We've gathered some useful resources to get your started on your bug bounty jour
 
   
 
-### ➡️ Contributions
-You are Welcome to Contribute. You can contribute by:
-- Translating into other languages
-- Adding more Tools, and other Resources.
-- Just adding a star the Github project :) 
+### ➡️ Contribuições
+Você é bem-vindo para contribuir! Você pode contribuir ao:
+- Traduzir esse repositório para outras linguagens
+- Adicionar mais ferramentas e recursos
+- Adicionado uma estrela nesse repositório :) 
 
- :point\_right: If you have some new idea about this Repository, issue, feedback or found some valuable tool feel free to open an issue or just DM me on discord @thelastmethbender#4823
+ :point\_right: Se você tem alguma ideia nova para esse repositório, issue, feedback ou encontrou alguma ferramenta valiosa, sinta-se à vontade para abrir uma issue ou me manda uma mensagem no Discord: @thelastmethbender#4823
 
 
