@@ -388,7 +388,7 @@ Reunimos alguns recursos úteis para começar sua jornada de Bug Bounty!
 Você é bem-vindo para contribuir! Você pode contribuir ao:
 - Traduzir esse repositório para outras linguagens
 - Adicionar mais ferramentas e recursos
-- Adicionado uma estrela nesse repositório :) 
+- Adicionando uma estrela nesse repositório :) 
 
  :point\_right: Se você tem alguma ideia nova para esse repositório, issue, feedback ou encontrou alguma ferramenta valiosa, sinta-se à vontade para abrir uma issue ou me manda uma mensagem no Discord: @thelastmethbender#4823
 
